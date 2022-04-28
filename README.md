@@ -1,6 +1,6 @@
 # FPZombieShooter
 
- **I'm getting started in game development. And this is my first complete game using Unity Engine. Thanks to [Penny de Byl](http://www.udemy.com/course/unity-complete/#instructor-2 "Penny de Byl")**
+ **I'm getting started in game development and this is my first complete game using Unity Engine. Thanks to [Penny de Byl](http://www.udemy.com/course/unity-complete/#instructor-2 "Penny de Byl")**
  
 
 
