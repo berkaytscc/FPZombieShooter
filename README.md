@@ -18,7 +18,6 @@
 - Constructing Ragdoll models for dynamic death animations.
 - A Heads Up Display to inform the player of their health level and ammunition level, complete with a radar for locating zombies and a compass to guide the player home.
 - Special Effects such as fire, blood splatter, and lighting techniques.
-- Building the game to a standalone product.
 
 ![Screenshot 2022-04-26 130255](https://user-images.githubusercontent.com/87911388/165351098-c51eef90-0499-45a0-886f-dd30c9c11eaa.png)
 ![Screenshot 2022-04-26 130951](https://user-images.githubusercontent.com/87911388/165351110-7bbfe207-579b-44d3-9413-6438347e6f4e.png)
